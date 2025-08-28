@@ -5,12 +5,14 @@
 ```bash
 npm init -y
 ```
+---
 
 #### **2. Instalacja Tailwind i narzędzi**
 
 ```bash
 npm install tailwindcss @tailwindcss/cli
 ```
+---
 
 #### **3. Konfiguracja**
 
