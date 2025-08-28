@@ -38,6 +38,10 @@ npm install tailwindcss @tailwindcss/cli
 ```bash
 npm run watch
 ```
+📌 Jeśli masz urządzenie dotykowe dodaj w input.css:
+```input.css
+@custom-variant hover (&:hover);
+```
 
 ---
 
